@@ -3,6 +3,9 @@
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Tecnólogo+Análise+e+Desenvolvimento+de+Sistemas)](https://github.com/JulianaForbici)
+
+
 ## Linkedin :busts_in_silhouette:
 <b>[Juliana Forbici](https://www.linkedin.com/in/juliana-forbici/)</b>
