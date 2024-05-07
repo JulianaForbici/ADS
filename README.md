@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![image](https://github.com/JulianaForbici/ADS/assets/105084941/0d134c38-c5a4-487a-8314-cb7176b22769)
-">
+  <img src="https://i.pinimg.com/originals/a2/a1/63/a2a16304eedebaab706f1cd7b6eb934e.png">
 </p>
 
 <h1 align="center"> Exercícios e Projetos </h1>
