@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a2/a1/63/a2a16304eedebaab706f1cd7b6eb934e.png">
+  <img src="https://i.pinimg.com/originals/6d/85/d0/6d85d028794fdc71d19bb40ce21d1f43.gif">
 </p>
 
 <h1 align="center"> Exercícios e Projetos </h1>
