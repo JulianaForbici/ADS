@@ -1,4 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=header&text=&fontSize=15&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<p align="center">
+  <img src="![image](https://github.com/JulianaForbici/ADS/assets/105084941/0d134c38-c5a4-487a-8314-cb7176b22769)
+">
+</p>
+
 <h1 align="center"> Exercícios e Projetos </h1>
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
